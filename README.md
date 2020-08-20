@@ -2,7 +2,9 @@
 
 Prima di tutto, ti serve una chiavetta USB da 8GB minimo. Se hai una più grande, va bene lo stesso. Se devi comprare una nuova, 8GB bastano.
 
-Appena hai la chiavetta USB, trovi un computer con connessione ad Internet. Nota che si devono scaricare tutti i file di Windows, quindi serve una connessione abbastanza buona.
+Appena hai la chiavetta USB, trova un computer con connessione ad Internet. Nota che si devono scaricare tutti i file di Windows, quindi serve una connessione abbastanza buona.
+
+Di più, i passi che ti indico qui funzionano su un computer con Windows 10. Si può fare anche su altri computer, ma è più complicato, e i passi non sono uguali.
 
 Prima cosa, ti devi connettere su questo sito: https://www.microsoft.com/en-us/software-download/windows10
 
@@ -46,6 +48,8 @@ Poi, deve copiare tutti i file sulla chiavetta. Aspetta ancora.
 
 ![](img/step10.png)
 
+Quando ha fatto tutto quello che deve fare, ti dirà che è andato tutto bene. 
 
+![](img/step10.png)
 
-
+Premi il "Finish" e chiamami, poi facciamo insieme ;)
