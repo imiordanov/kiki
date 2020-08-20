@@ -50,6 +50,6 @@ Poi, deve copiare tutti i file sulla chiavetta. Aspetta ancora.
 
 Quando ha fatto tutto quello che deve fare, ti dirà che è andato tutto bene. 
 
-![](img/step10.png)
+![](img/step11.png)
 
 Premi il "Finish" e chiamami, poi facciamo insieme ;)
